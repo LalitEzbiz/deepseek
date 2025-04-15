@@ -49,7 +49,7 @@ export default function Home() {
             {/* prompt box */}
             <PromptBox isLoading={isLoading} setisLoading={setisLoading}/>
 
-            <p className="text-xs absolute bottom-1 text-gray-500 ">Ai generated for refence only </p>
+            <p className="text-xs absolute bottom-1 text-gray-500 ">Ai generated forr refence only </p>
           </div>
         </div>
       </div>
